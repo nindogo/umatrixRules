@@ -1,0 +1,8 @@
+! uMatrix: Ruleset recipes 1.0
+! Title: Rulesets for JScript CDNs
+! Maintainer: nindogo
+
+Globally whitelist jsDelivr CDN
+    * cdn.jsdelivr.net
+        _ cdn.jsdelivr.net *
+        _ cdn.jsdelivr.net script
