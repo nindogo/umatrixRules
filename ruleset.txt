@@ -7,21 +7,24 @@ jsDelivr JS CDN as 3rd Party
         _ cdn.jsdelivr.net *
         _ cdn.jsdelivr.net script
 
+
 FSDN JS CDN as 3rd Party
     * a.fsdn.com
         _ a.fsdn.com *
         _ a.fsdn.com script
 
 
-CLUDFLARE AJAX CDN as 3rd Party
+CLOUDFLARE AJAX CDN as 3rd Party
     * ajax.cloudflare.com
        _ ajax.cloudflare.com *
        _ ajax.cloudflare.com script
+
 
 ASPNET AJAX CDN as 3rd Party
     * ajax.cloudflare.com
        _ ajax.aspnetcdn.com *
        _ ajax.aspnetcdn.com script
+
 
 GOOGLE AJAX CDN as 3rd Party
     * ajax.googleapis.com
@@ -33,3 +36,65 @@ AKAMAI JS CDN as 3rd Party
     * akamaihd.net
        _ akamaihd.net *
        _ akamaihd.net script
+
+
+BDIMG JS CDN CDN as 3rd Party
+    * apps.bdimg.com
+       _ apps.bdimg.com *
+       _ apps.bdimg.com script
+
+
+BOOT CSS JS CDN as 3rd Party
+    * cdn.bootcss.com
+       _ cdn.bootcss.com *
+       _ cdn.bootcss.com script
+
+
+STATICFILE JS CDN as 3rd Party
+    * cdn.staticfile.org
+       _ cdn.staticfile.org *
+       _ cdn.staticfile.org script
+
+
+CDNJS JS CDN as 3rd Party
+    * cdnjs.cloudflare.com
+       _ cdnjs.cloudflare.com *
+       _ cdnjs.cloudflare.com script
+
+
+JQUERY JS CDN as 3rd Party
+    * code.jquery.com
+       _ code.jquery.com *
+       _ code.jquery.com script
+
+
+MAXCDN BOOTSTRAP JS CDN as 3rd Party
+    * maxcdn.bootstrapcdn.com
+       _ maxcdn.bootstrapcdn.com *
+       _ maxcdn.bootstrapcdn.com script
+
+
+FASTLY JS CDN as 3rd Party
+    * ssl.fastly.net
+       _ ssl.fastly.net *
+       _ ssl.fastly.net script
+
+
+UNPKG JS CDN as 3rd Party
+    * unpkg.com
+       _ unpkg.com *
+       _ unpkg.com script
+
+
+AMAZONAWS JS CDN as 3rd Party
+    * s3.amazonaws.com
+       _ s3.amazonaws.com *
+       _ s3.amazonaws.com media
+       _ s3.amazonaws.com script
+
+
+CLOUDFRONT JS CDN as 3rd Party
+    * cloudfront.net
+       _ cloudfront.net *
+       _ cloudfront.net media
+       _ cloudfront.net script
