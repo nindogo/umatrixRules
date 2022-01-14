@@ -2,7 +2,34 @@
 ! Title: Rulesets for JScript CDNs
 ! Maintainer: nindogo
 
-Globally whitelist jsDelivr CDN
+jsDelivr JS CDN as 3rd Party
     * cdn.jsdelivr.net
         _ cdn.jsdelivr.net *
         _ cdn.jsdelivr.net script
+
+FSDN JS CDN as 3rd Party
+    * a.fsdn.com
+        _ a.fsdn.com *
+        _ a.fsdn.com script
+
+
+CLUDFLARE AJAX CDN as 3rd Party
+    * ajax.cloudflare.com
+       _ ajax.cloudflare.com *
+       _ ajax.cloudflare.com script
+
+ASPNET AJAX CDN as 3rd Party
+    * ajax.cloudflare.com
+       _ ajax.aspnetcdn.com *
+       _ ajax.aspnetcdn.com script
+
+GOOGLE AJAX CDN as 3rd Party
+    * ajax.googleapis.com
+       _ ajax.googleapis.com *
+       _ ajax.googleapis.com script
+
+
+AKAMAI JS CDN as 3rd Party
+    * akamaihd.net
+       _ akamaihd.net *
+       _ akamaihd.net script
