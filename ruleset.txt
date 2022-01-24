@@ -82,7 +82,13 @@ CLOUDFRONT JS CDN as 3rd Party
     * cloudfront.net
        _ cloudfront.net media
        _ cloudfront.net script
-       
+
+
 CDNJS.WORK JS CDN as 3rd Party
     * cdnjs.work
        _ tx.cdnjs.work script
+
+
+Google Translate as 3rd Party
+    * translate.googleapis.com
+       _ translate.googleapis.com xhr
