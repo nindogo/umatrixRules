@@ -92,3 +92,7 @@ CDNJS.WORK JS CDN as 3rd Party
 Google Translate as 3rd Party
     * translate.googleapis.com
        _ translate.googleapis.com xhr
+
+Sentry's Raven.js as 3rd Party
+    * cdn.ravenjs.com
+       _ cdn.ravenjs.com script
