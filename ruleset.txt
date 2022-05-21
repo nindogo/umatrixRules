@@ -96,3 +96,12 @@ Google Translate as 3rd Party
 Sentry's Raven.js as 3rd Party
     * cdn.ravenjs.com
        _ cdn.ravenjs.com script
+       
+DoodStream as 3rd Party
+    * doodcdn.co
+    * doodcdn.com
+       _ doodcdn.co script xhr
+       _ doodcdn.com script xhr
+       _ ryeeffortoccupy.com script
+       _ thatsouh.com xhr frame
+       _ dood.video media
