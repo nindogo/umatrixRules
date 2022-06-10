@@ -105,3 +105,11 @@ DoodStream as 3rd Party
        _ ryeeffortoccupy.com script
        _ thatsouh.com xhr frame
        _ dood.video media
+
+Material Design light as 3rd Party
+    * code.getmdl.io
+       _ code.getmdl.io script
+       
+AmpProject as 3rd Party
+    * cdn.ampproject.org
+       _ cdn.ampproject.org script
