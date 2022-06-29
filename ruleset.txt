@@ -113,3 +113,7 @@ Material Design light as 3rd Party
 AmpProject as 3rd Party
     * cdn.ampproject.org
        _ cdn.ampproject.org script xhr
+
+SquareSpace as 3rd Party
+    * squarespace.com
+       _ squarespace.com script xhr
