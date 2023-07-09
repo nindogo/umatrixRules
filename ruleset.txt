@@ -117,3 +117,7 @@ AmpProject as 3rd Party
 SquareSpace as 3rd Party
     * squarespace.com
        _ squarespace.com script xhr
+
+HS as 3rd Party
+    * hs-script.com
+       _ hs-script.com script xhr
