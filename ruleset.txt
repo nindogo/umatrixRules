@@ -121,3 +121,8 @@ SquareSpace as 3rd Party
 HS as 3rd Party
     * hs-script.com
        _ hs-script.com script xhr
+
+
+MathJAX as 3rd Party
+    * cdn.mathjax.org
+       _ cdn.mathjax.org script xhr
