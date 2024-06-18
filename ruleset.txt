@@ -134,5 +134,5 @@ DataTables as 3rd Party
 
 
 CookieLaw as 3rd Party
-    * cookielaw.org
+    * cdn.cookielaw.org
        _ cdn.cookielaw.org script
