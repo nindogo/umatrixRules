@@ -131,3 +131,8 @@ MathJAX as 3rd Party
 DataTables as 3rd Party
     * cdn.datatables.net
        _ cdn.datatables.net script
+
+
+CookieLaw as 3rd Party
+    * *.cookielaw.org
+       _ *.cookielaw.org script cookies
