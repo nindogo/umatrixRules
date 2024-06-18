@@ -126,3 +126,8 @@ HS as 3rd Party
 MathJAX as 3rd Party
     * cdn.mathjax.org
        _ cdn.mathjax.org script xhr
+
+
+DataTables as 3rd Party
+    * cdn.datatables.net
+       _ cdn.datatables.net script
