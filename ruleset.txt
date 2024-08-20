@@ -136,3 +136,7 @@ DataTables as 3rd Party
 CookieLaw as 3rd Party
     * cdn.cookielaw.org
        _ cdn.cookielaw.org script
+
+CloudFlare Turnstile
+    * challenges.cloudflare.com
+      _ challenges.cloudflare.com script frame xhr
