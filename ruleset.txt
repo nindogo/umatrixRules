@@ -139,4 +139,6 @@ CookieLaw as 3rd Party
 
 CloudFlare Turnstile
     * challenges.cloudflare.com
-      _ challenges.cloudflare.com script frame xhr
+      _ challenges.cloudflare.com script
+      _ challenges.cloudflare.com frame
+      _ challenges.cloudflare.com xhr
